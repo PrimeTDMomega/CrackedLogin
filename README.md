@@ -1,3 +1,11 @@
+![Build](https://img.shields.io/badge/build-pending-yellow)
+![Version](https://img.shields.io/badge/version-1.19.1-brightgreen)
+![Maintainment](https://img.shields.io/badge/maintainment-none-darkblue)
+
+
+
+
+
 # CrackedLogin 1.19.1
 ### Automatically saves passwords and logs in on cracked Minecraft servers
 
