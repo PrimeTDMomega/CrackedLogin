@@ -6,9 +6,11 @@
 
 
 
-# CrackedLogin 1.19.1
+# CrackedLogin 
 ### Automatically saves passwords and logs in on cracked Minecraft servers
-
+Supported versions
+- 1.12.2
+- 1.19.1
 ## How to Use
 1. Just login on a cracked server.
 2. Done! CrackedLogin will automatically login when the server asks for it. 
